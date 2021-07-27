@@ -1,6 +1,6 @@
-<img href="./banner.png" alt="banner" width="100%" />
+![Banner](./banner.png)
 
-# 🖐Hi there! Welcome to nicklimmm's GitHub Profile! ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=page.id)
+# 🖐Hi there! Welcome to nicklimmm's GitHub Profile! ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=nicklimmm.nicklimmm)
 
 I'm **Nicky Lim**, a Computer Science Sophomore at Nanyang Technological University, Singapore. 📚
 
@@ -28,6 +28,7 @@ Enjoy looking around my repositories and contact me if you would like to do so �
 <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
 <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+<img alt="GatsbyJS" src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white"/>
 <img alt="React Native" src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img alt="Django" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
