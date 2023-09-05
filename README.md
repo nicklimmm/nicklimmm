@@ -2,9 +2,9 @@
 
 # 🖐Hi there! Welcome to nicklimmm's GitHub Profile! ![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=nicklimmm.nicklimmm)
 
-I'm **Nicky Lim**, a Computer Science Penultimate at Nanyang Technological University, Singapore. 📚
+I'm **Nicky Lim**, a Final Year Computer Science student at Nanyang Technological University, Singapore. 📚
 
-I'm interested in Web Development, Mathematics, and Software Engineering. Other than that, I love basketball 🏀 and music 🎵!
+I'm interested in Open Source, Backend Engineering, and Programming Languages
 
 Enjoy looking around my repositories and contact me if you would like to do so 😎.
 
